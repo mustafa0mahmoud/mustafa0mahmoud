@@ -35,6 +35,9 @@ A CRM for student-recruitment agencies. I worked on its real-time chat system ac
 - Wrote end-to-end tests for sending, editing and deleting messages, and for incoming webhooks.
 - Built CRM features such as lead capture from website forms, sales funnels, student applications, and Excel import/export.
 
+### 🏢 Al Manaseer Digital Media · Backend Developer · Part-time · Mar 2026 – Present
+An investment platform for gold, vehicles and other assets. I build the user account, wallet and investment APIs, handle Stripe payments, and run background jobs with BullMQ.
+
 
 ## 🛠 Tech Stack
 
